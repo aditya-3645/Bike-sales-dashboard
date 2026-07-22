@@ -1,7 +1,7 @@
 # 🚲 Bike Sales Analytics Dashboard
 
 <p align="center">
-  <img src="Screenshot(6).png" alt="Bike Sales Dashboard" width="100%">
+  <img src="Screenshot%20(6).png" alt="Bike Sales Dashboard" width="100%">
 </p>
 
 <p align="center">
